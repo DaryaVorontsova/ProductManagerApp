@@ -1,6 +1,7 @@
 # Product Manager App
 
 Простое одностраничное приложение на Ext JS для отображения и редактирования списка товаров.
+Доступно по ссылке: [https://goodsapp.netlify.app/](https://goodsapp.netlify.app/)
 
 ## Установка и запуск
 
